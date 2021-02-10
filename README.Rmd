@@ -16,6 +16,9 @@ knitr::opts_chunk$set(
 # RFM
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.com/SpielmannCode/RTest.svg?branch=main)](https://travis-ci.com/SpielmannCode/RTest)
+[![Codecov test coverage](https://codecov.io/gh/SpielmannCode/RTest/branch/main/graph/badge.svg)](https://codecov.io/gh/SpielmannCode/RTest?branch=main)
+[![R-CMD-check](https://github.com/SpielmannCode/RTest/workflows/R-CMD-check/badge.svg)](https://github.com/SpielmannCode/RTest/actions)
 <!-- badges: end -->
 
 The goal of RFM is to Calculate the RFM score for Data Tables

@@ -66,4 +66,3 @@ RFMfunction <- function(data, weight_recency=1, weight_frequency=1, weight_monet
   # Return final table
   return(temp)
 }
-
